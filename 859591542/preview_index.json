@@ -1,0 +1,19 @@
+{
+  "qq_number": "1137275487",
+  "group_number": "859591542",
+  "updated_at": "2026-04-22T16:19:31.247462",
+  "skins": [
+    {
+      "name": "音宝の꒰小麦云꒱闷",
+      "file": "音宝の小麦云闷.bdi",
+      "thumb": "音宝の小麦云闷.bdi_py_26_light_thumb.png",
+      "full": "音宝の小麦云闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "音宝の꒰小麦云꒱",
+      "file": "音宝の小麦云.bdi",
+      "thumb": "音宝の小麦云.bdi_py_26_light_thumb.png",
+      "full": "音宝の小麦云.bdi_py_26_light.png"
+    }
+  ]
+}
