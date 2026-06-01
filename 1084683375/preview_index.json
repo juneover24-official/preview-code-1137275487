@@ -1,7 +1,7 @@
 {
   "qq_number": "1137275487",
   "group_number": "1084683375",
-  "updated_at": "2026-04-23T15:52:38.733130",
+  "updated_at": "2026-06-01T06:03:44+00:00",
   "skins": [
     {
       "name": "音音♡一勺奶油『融脆』",
@@ -50,6 +50,12 @@
       "file": "音可食用萌神叽脆脆.bdi",
       "thumb": "音可食用萌神叽脆脆.bdi_py_26_light_thumb.png",
       "full": "音可食用萌神叽脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "「音喵の少女牛乳配方」融脆",
+      "file": "音喵の少女牛乳配方融脆.bdi",
+      "thumb": "音喵の少女牛乳配方融脆.bdi_py_26_light_thumb.png",
+      "full": "音喵の少女牛乳配方融脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
