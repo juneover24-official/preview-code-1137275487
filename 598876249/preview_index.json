@@ -1,7 +1,7 @@
 {
   "qq_number": "1137275487",
   "group_number": "598876249",
-  "updated_at": "2026-04-23T15:52:38.263269",
+  "updated_at": "2026-06-03T03:23:29+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -26,12 +26,6 @@
       "file": "yuanの天使宝宝吻.bdi",
       "thumb": "yuanの天使宝宝吻.bdi_py_26_light_thumb.png",
       "full": "yuanの天使宝宝吻.bdi_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "牛乳叽.bds",
-      "thumb": "牛乳叽.bds_py_26_light_thumb.png",
-      "full": "牛乳叽.bds_py_26_light.png"
     }
   ]
 }
