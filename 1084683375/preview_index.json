@@ -1,7 +1,7 @@
 {
   "qq_number": "1137275487",
   "group_number": "1084683375",
-  "updated_at": "2026-06-19T11:17:52+00:00",
+  "updated_at": "2026-06-19T11:17:59+00:00",
   "skins": [
     {
       "name": "音音♡一勺奶油『融脆』",
@@ -116,6 +116,12 @@
       "file": "音大王の就爱奶油碗碗碗-融脆.bdi",
       "thumb": "音大王の就爱奶油碗碗碗-融脆.bdi_py_26_light_thumb.png",
       "full": "音大王の就爱奶油碗碗碗-融脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "音大王の就爱奶油碗碗碗-彩闷",
+      "file": "音大王の就爱奶油碗碗碗-彩闷.bdi",
+      "thumb": "音大王の就爱奶油碗碗碗-彩闷.bdi_py_26_light_thumb.png",
+      "full": "音大王の就爱奶油碗碗碗-彩闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
