@@ -1,7 +1,7 @@
 {
   "qq_number": "1137275487",
   "group_number": "1094065940",
-  "updated_at": "2026-07-02T03:51:10+00:00",
+  "updated_at": "2026-07-02T03:52:58+00:00",
   "skins": [
     {
       "name": "yuanの🍨・ᴥ・🥄",
@@ -22,12 +22,6 @@
       "full": "yuanの熊熊巧克力派.bdi_py_26_light.png"
     },
     {
-      "name": "乐妍底包",
-      "file": "yuanの熊熊巧克力派无漂浮.bdi",
-      "thumb": "yuanの熊熊巧克力派无漂浮.bdi_py_26_light_thumb.png",
-      "full": "yuanの熊熊巧克力派无漂浮.bdi_py_26_light.png"
-    },
-    {
       "name": "yuanの꒰熊 萌倒所有人类꒱",
       "file": "yuanの熊萌倒所有人类无漂.bdi",
       "thumb": "yuanの熊萌倒所有人类无漂.bdi_py_26_light_thumb.png",
@@ -44,6 +38,12 @@
       "file": "yuanの泡泡浴无漂.bdi",
       "thumb": "yuanの泡泡浴无漂.bdi_py_26_light_thumb.png",
       "full": "yuanの泡泡浴无漂.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "yuanの熊熊巧克力派无漂浮.bdi",
+      "thumb": "yuanの熊熊巧克力派无漂浮.bdi_py_26_light_thumb.png",
+      "full": "yuanの熊熊巧克力派无漂浮.bdi_py_26_light_thumb.png"
     }
   ]
 }
