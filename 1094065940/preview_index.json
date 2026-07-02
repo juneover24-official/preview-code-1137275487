@@ -1,7 +1,7 @@
 {
   "qq_number": "1137275487",
   "group_number": "1094065940",
-  "updated_at": "2026-07-02T02:56:10+00:00",
+  "updated_at": "2026-07-02T03:30:22+00:00",
   "skins": [
     {
       "name": "yuanの🍨・ᴥ・🥄",
@@ -38,6 +38,12 @@
       "file": "yuanの泡泡浴.bdi",
       "thumb": "yuanの泡泡浴.bdi_py_26_light_thumb.png",
       "full": "yuanの泡泡浴.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "yuanの泡泡浴无漂",
+      "file": "yuanの泡泡浴无漂.bdi",
+      "thumb": "yuanの泡泡浴无漂.bdi_py_26_light_thumb.png",
+      "full": "yuanの泡泡浴无漂.bdi_py_26_light_thumb.png"
     }
   ]
 }
