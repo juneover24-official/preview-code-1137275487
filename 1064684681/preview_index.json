@@ -1,7 +1,7 @@
 {
   "qq_number": "1137275487",
   "group_number": "1064684681",
-  "updated_at": "2026-07-10T09:50:34+00:00",
+  "updated_at": "2026-07-10T09:50:42+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -26,6 +26,12 @@
       "file": "yuanの天使叽秘密花园.bds",
       "thumb": "yuanの天使叽秘密花园.bds_py_26_light_thumb.png",
       "full": "yuanの天使叽秘密花园.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "yuanの牛乳叽",
+      "file": "牛乳叽无顶栏.bds",
+      "thumb": "牛乳叽无顶栏.bds_py_26_light_thumb.png",
+      "full": "牛乳叽无顶栏.bds_py_26_light_thumb.png"
     }
   ]
 }
