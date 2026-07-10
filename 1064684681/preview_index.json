@@ -1,7 +1,7 @@
 {
   "qq_number": "1137275487",
   "group_number": "1064684681",
-  "updated_at": "2026-06-13T12:33:26+00:00",
+  "updated_at": "2026-07-10T09:50:34+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -20,6 +20,12 @@
       "file": "yuanの萌也是罪嗎.bds",
       "thumb": "yuanの萌也是罪嗎.bds_py_26_light_thumb.png",
       "full": "yuanの萌也是罪嗎.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "yuanの天使叽秘密花园",
+      "file": "yuanの天使叽秘密花园.bds",
+      "thumb": "yuanの天使叽秘密花园.bds_py_26_light_thumb.png",
+      "full": "yuanの天使叽秘密花园.bds_py_26_light_thumb.png"
     }
   ]
 }
