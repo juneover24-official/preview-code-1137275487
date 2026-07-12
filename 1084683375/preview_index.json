@@ -1,7 +1,7 @@
 {
   "qq_number": "1137275487",
   "group_number": "1084683375",
-  "updated_at": "2026-06-19T12:17:59+00:00",
+  "updated_at": "2026-07-12T11:32:33+00:00",
   "skins": [
     {
       "name": "音音♡一勺奶油『融脆』",
@@ -128,6 +128,12 @@
       "file": "小音の喵叽萌生-彩闷.bdi",
       "thumb": "小音の喵叽萌生-彩闷.bdi_py_26_light_thumb.png",
       "full": "小音の喵叽萌生-彩闷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "「音喵の少女牛乳配方」彩闷",
+      "file": "音喵の少女牛乳配方彩闷.bdi",
+      "thumb": "音喵の少女牛乳配方彩闷.bdi_py_26_light_thumb.png",
+      "full": "音喵の少女牛乳配方彩闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
