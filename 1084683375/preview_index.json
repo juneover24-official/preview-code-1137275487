@@ -1,7 +1,7 @@
 {
   "qq_number": "1137275487",
   "group_number": "1084683375",
-  "updated_at": "2026-07-21T01:37:23+00:00",
+  "updated_at": "2026-07-22T15:20:56+00:00",
   "skins": [
     {
       "name": "音音♡一勺奶油『融脆』",
@@ -152,6 +152,12 @@
       "file": "zh_音崽_兎児乳製品闷.bds",
       "thumb": "zh_音崽_兎児乳製品闷.bds_py_26_light_thumb.png",
       "full": "zh_音崽_兎児乳製品闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "音崽ꕀ涩窝ovo小乳内脆脆.bdi",
+      "thumb": "音崽ꕀ涩窝ovo小乳内脆脆.bdi_py_26_light_thumb.png",
+      "full": "音崽ꕀ涩窝ovo小乳内脆脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
