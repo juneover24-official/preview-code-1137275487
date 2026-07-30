@@ -1,7 +1,7 @@
 {
   "qq_number": "1137275487",
   "group_number": "1084683375",
-  "updated_at": "2026-07-29T12:39:09+00:00",
+  "updated_at": "2026-07-30T01:43:24+00:00",
   "skins": [
     {
       "name": "音音♡一勺奶油『融脆』",
@@ -182,6 +182,12 @@
       "file": "甜甜音ꕀ兎児loli脆.bds",
       "thumb": "甜甜音ꕀ兎児loli脆.bds_py_26_light_thumb.png",
       "full": "甜甜音ꕀ兎児loli脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "「音喵の妹宝娃娃症」彩闷",
+      "file": "音喵の妹宝娃娃症彩闷.bdi",
+      "thumb": "音喵の妹宝娃娃症彩闷.bdi_py_26_light_thumb.png",
+      "full": "音喵の妹宝娃娃症彩闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
