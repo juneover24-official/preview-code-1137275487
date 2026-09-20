@@ -1,7 +1,7 @@
 {
   "qq_number": "1137275487",
   "group_number": "1094101731",
-  "updated_at": "2026-07-02T02:40:31+00:00",
+  "updated_at": "2026-09-20T14:58:26+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -20,6 +20,13 @@
       "file": "yuanの泡泡浴.bds",
       "thumb": "yuanの泡泡浴.bds_py_26_light_thumb.png",
       "full": "yuanの泡泡浴.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "yuanの꒰熊 萌倒所有人类꒱",
+      "file": "yuanの熊萌倒所有人类.bds",
+      "thumb": "yuanの熊萌倒所有人类.bds_py_26_light_thumb.png",
+      "full": "yuanの熊萌倒所有人类.bds_py_26_light_thumb.png",
+      "file_id": "9703b8aa8217c431795c051349d954fa"
     }
   ]
 }
