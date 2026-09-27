@@ -1,7 +1,7 @@
 {
   "qq_number": "1137275487",
   "group_number": "598876249",
-  "updated_at": "2026-07-13T06:06:38+00:00",
+  "updated_at": "2026-09-27T15:25:41+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -44,6 +44,13 @@
       "file": "yuanのᐢ笨兔耳ᐢ.bdi",
       "thumb": "yuanのᐢ笨兔耳ᐢ.bdi_py_26_light_thumb.png",
       "full": "yuanのᐢ笨兔耳ᐢ.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "yuanの囚禁绷带心",
+      "file": "囚禁绷带心.bdi",
+      "thumb": "囚禁绷带心.bdi_py_26_light_thumb.png",
+      "full": "囚禁绷带心.bdi_py_26_light_thumb.png",
+      "file_id": "5815650575c07d0ef642288e49664b09"
     }
   ]
 }
